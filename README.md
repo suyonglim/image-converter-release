@@ -15,4 +15,4 @@ Copyright © 2026 Suyong Lim. All rights reserved.
 
 이미지는 PC 안에서 처리하고 외부로 보내지 않습니다. 앱은 새 버전 확인과 내려받기를 위해 GitHub 에 접속합니다.
 
-문의와 이용 허락 요청은 [Issues](https://github.com/suyonglim/image-converter-release/issues) 에 남겨 주세요.
+문의와 이용 허락 요청은 yong8635@naver.com 으로 보내 주세요.
